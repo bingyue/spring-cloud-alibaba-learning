@@ -10,8 +10,11 @@ spring cloud alibaba 学习文档集合
 ### 博客文章
 
 [Spring Cloud Alibaba 新一代微服务解决方案](https://www.cnblogs.com/binyue/p/12069641.html)
+
 [新手向，十分钟快速创建 Spring Cloud 项目](https://www.cnblogs.com/binyue/p/12079356.html)
+
 [Spring Cloud Alibaba 实战 之 Nacos 服务注册和发现](https://www.cnblogs.com/binyue/p/12095310.html)
+
 [抢占云原生市场，阿里开源服务发现组件 Nacos快速入门](https://www.cnblogs.com/binyue/p/12206654.html) 
 
 [对标Eureka的AP一致性，Nacos如何实现Raft算法](https://www.cnblogs.com/binyue/p/12217312.html)
